@@ -1,4 +1,5 @@
 
+'''sample check git code'''
 
 class Product:
     def __init__(self, pid, pnm, pcat, pqty):
